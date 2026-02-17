@@ -13,22 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi, I'm Fanny
+## Frontend developer building modern web experiences
 
 Frontend developer focused on **React, JavaScript, UI and modern web development**.  
-I enjoy building digital solutions, learning new technologies and improving my coding skills step by step.
+I enjoy building digital solutions, learning new technologies and continuously improving my coding skills.
 
 ### 🚀 Currently working on
 - Frontend projects in React & TypeScript  
-- Expanding knowledge in Python and data/AI  
-- Building projects to strengthen my developer portfolio
+- Expanding knowledge in Python, AI and data  
+- Strengthening my developer portfolio with real-world projects
 
 ### 🌱 Learning journey
 I regularly use interactive coding platforms and hands-on projects to keep improving my skills.  
 If you're also learning frontend, here’s a platform I sometimes use:  
 👉 https://scrimba.com?via=u0u1n5
-
-### 🤝 Connect with me
-- Stockholm, Sweden  
-- Open to junior frontend opportunities  
-- Always happy to connect with other developers 🙂
