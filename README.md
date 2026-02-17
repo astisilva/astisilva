@@ -13,17 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Frontend developer building modern web experiences
+## Frontend Developer — React, JavaScript & modern web development
 
-Frontend developer focused on **React, JavaScript, UI and modern web development**.  
-I enjoy building digital solutions, learning new technologies and continuously improving my coding skills.
+Frontend developer focused on building clean, user-friendly web applications.  
+Currently strengthening my skills through real-world projects, continuous learning and hands-on coding.
 
-### 🚀 Currently working on
-- Frontend projects in React & TypeScript  
+### 🚀 Current focus
+- React & TypeScript frontend projects  
 - Expanding knowledge in Python, AI and data  
-- Strengthening my developer portfolio with real-world projects
+- Building a strong developer portfolio
 
-### 🌱 Learning journey
-I regularly use interactive coding platforms and hands-on projects to keep improving my skills.  
-If you're also learning frontend, here’s a platform I sometimes use:  
+### 🤝 Open to opportunities
+- Stockholm, Sweden (open to remote/hybrid)
+- Junior frontend or web development roles
+- Always happy to connect with other developers
+
+### 🌱 Learning resources
+I regularly use interactive coding platforms to keep improving my skills.  
+If you're also learning frontend, here’s one I've used:  
 👉 https://scrimba.com?via=u0u1n5
